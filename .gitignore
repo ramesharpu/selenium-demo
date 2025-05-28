@@ -44,3 +44,5 @@ buildNumber.properties
 .settings/
 allure-results/
 test-output/
+.DS_Store
+
